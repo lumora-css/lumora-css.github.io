@@ -23,6 +23,10 @@ Use the `.btn` class followed by a semantic color class like `.btn-primary` or `
 <button class="btn btn-secondary">Secondary</button>
 <button class="btn btn-success">Success</button>
 <button class="btn btn-danger">Danger</button>
+<button class="btn btn-warning">Warning</button>
+<button class="btn btn-info">Info</button>
+<button class="btn btn-light text-dark">Light</button>
+<button class="btn btn-dark">Dark</button>
 ```
 
 ### Outline Buttons
@@ -33,6 +37,10 @@ Replace the color class with its outline variant, e.g. `.btn-outline-primary`, f
   <button class="btn btn-outline-secondary">Secondary</button>
   <button class="btn btn-outline-success">Success</button>
   <button class="btn btn-outline-danger">Danger</button>
+  <button class="btn btn-outline-warning">Warning</button>
+  <button class="btn btn-outline-info">Info</button>
+  <button class="btn btn-outline-light text-dark">Light</button>
+  <button class="btn btn-outline-dark">Dark</button>
 </div>
 
 ```html
@@ -40,6 +48,10 @@ Replace the color class with its outline variant, e.g. `.btn-outline-primary`, f
 <button class="btn btn-outline-secondary">Secondary</button>
 <button class="btn btn-outline-success">Success</button>
 <button class="btn btn-outline-danger">Danger</button>
+<button class="btn btn-outline-warning">Warning</button>
+<button class="btn btn-outline-info">Info</button>
+<button class="btn btn-outline-light text-dark">Light</button>
+<button class="btn btn-outline-dark">Dark</button>
 ```
 
 ### Ghost Buttons

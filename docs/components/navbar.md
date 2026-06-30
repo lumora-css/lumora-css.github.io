@@ -9,7 +9,7 @@ The Navbar component is a responsive header for your application that contains b
   <div class="container-fluid">
     <a href="#" class="navbar-brand">Lumora</a>
     <button class="navbar-toggler" type="button">
-      <span>☰</span>
+      <span class="navbar-toggler-icon"></span>
     </button>
     <div class="navbar-collapse">
       <ul class="navbar-nav">
@@ -33,7 +33,7 @@ The Navbar component is a responsive header for your application that contains b
     <div class="container-fluid">
       <a href="#" class="navbar-brand">Lumora</a>
       <button class="navbar-toggler" type="button">
-        <span>☰</span>
+        <span class="navbar-toggler-icon"></span>
       </button>
       <div class="navbar-collapse" style="display: flex;">
         <ul class="navbar-nav" style="flex-direction: row; gap: 1rem;">
