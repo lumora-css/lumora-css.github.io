@@ -1,0 +1,13 @@
+{
+  "name": "lumora-docs",
+  "version": "1.0.0",
+  "description": "Documentation for Lumora CSS",
+  "main": "docs-server.js",
+  "scripts": {
+    "dev": "bun run docs-server.js",
+    "build": "bun run docs-build.js ."
+  },
+  "dependencies": {
+    "marked": "^18.0.5"
+  }
+}
